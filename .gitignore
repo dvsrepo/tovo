@@ -1,0 +1,13 @@
+*.class
+*.log
+
+# sbt specific
+target/
+
+# Scala-IDE specific
+.idea
+*.iml
+
+config/
+src/test/corpus/
+lib/
